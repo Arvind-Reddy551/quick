@@ -9,3 +9,5 @@ updated
 git add
 git clone
 git pull
+git clone to the git local and update
+with git merge
